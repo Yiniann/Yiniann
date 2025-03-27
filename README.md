@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm  Yiniann！</h1>
 
-<!--
-**Yiniann/Yiniann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Currently Learning:
+- 🌏 Full Stack Web Development
 
-Here are some ideas to get you started:
+📬 **Get in Touch**:
+[📧 Email](mailto:i@en1an.com) | [🌍 Website](https://www.en1an.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 **My GitHub Stats**:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yiniann&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
