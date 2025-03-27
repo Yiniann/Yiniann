@@ -1,6 +1,8 @@
 <h1 align="center">👋 Hi, I'm  Yiniann！</h1>
 
 📚 Currently Learning:
+- 🐍 Python
+- 🌱 JavaScript
 - 🌏 Full Stack Web Development
 
 📬 **Get in Touch**:
