@@ -33,4 +33,4 @@ Principles:
   └─ Optimize for leverage
 ```
   📬 **Get in Touch**:
-[📧 Email](mailto:i@xiamii.comm | [🌍 Website](https://www.en1an.com)
+[📧 Email](mailto:i@xiamii.com) | [🌍 Website](https://www.en1an.com)
