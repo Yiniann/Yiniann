@@ -1,31 +1,36 @@
-$ cat /etc/passwd | grep Y1Niann 
-> A full-stack engineer who enjoys building robust systems and clean interfaces.
-> Engineer mindset. Product thinking. Long-term主义者。
+```
+$ whoami
+Y1Niann
+
+$ cat /etc/passwd | grep y1niann
+> Independent developer building products end-to-end.
+> Ship fast. Iterate longer.
 
 $ neofetch
 
 Y1Niann@github
-────────────
-OS: macOS, Linux (Debian/ Ubuntu)                        ／＞　 フ
-Bio: Full-Stack Engineer, System Builder                | 　_　_|
-Focus: Web Infra · DX · Product Engineering            ／` ミ＿xノ
-Skills:                                               ／　　　　 |
-  ├─ Langs: TypeScript, JavaScript                     (　 ヽ＿ヽ_)__)
-  ├─ Frontend: React, Vite                             ＼二 )
+─────────────
+OS: macOS · Linux                                    ／＞　 フ
+Bio: Indie Developer · Full-Stack Builder           | 　_　_|
+Focus: Products · Systems · Automation              ／` ミ＿xノ
+Stack:                                             ／　　　　 |
+  ├─ Languages: TypeScript, JavaScript             (　 ヽ＿ヽ_)__)
+  ├─ Frontend: React, Vite, Tailwind CSS
   ├─ Backend: Node.js, Express, Prisma
-  ├─ Auth: JWT, RBAC, Session Design
-  ├─ DB: MySQL, PostgreSQL
-  └─ Tools: Git, Docker
+  ├─ Database: MySQL, PostgreSQL
+  ├─ Infra: Docker, Redis
+  └─ Tools: CodeX
 
 Projects:
   ├─ MiMiAirport
   ├─ PacMachine
   └─ ShuttlePress
 
-Mindset:
-  ├─ Clean code > clever code
-  ├─ DX matters
-  └─ Build things that scale
-
+Principles:
+  ├─ Simple > Clever
+  ├─ Shipping compounds
+  ├─ Small systems win
+  └─ Optimize for leverage
+```
   📬 **Get in Touch**:
 [📧 Email](mailto:i@xiamii.comm | [🌍 Website](https://www.en1an.com)
